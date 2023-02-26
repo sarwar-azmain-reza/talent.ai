@@ -1,0 +1,1758 @@
+body {
+  margin: 0;
+  line-height: normal;
+}
+
+.group-icon,
+.vector-icon {
+  position: absolute;
+  height: 100%;
+  width: 101.12%;
+  top: 0;
+  right: -1.12%;
+  bottom: 0;
+  left: 0;
+  max-width: 100%;
+  overflow: hidden;
+  max-height: 100%;
+}
+
+.group-icon {
+  height: 57.25%;
+  width: 82.63%;
+  top: 42.75%;
+  right: 0;
+  left: 17.37%;
+}
+
+.frame-child {
+  position: absolute;
+  height: 2.26%;
+  width: 18.7%;
+  top: 63.45%;
+  right: 74.09%;
+  bottom: 34.29%;
+  left: 7.21%;
+}
+
+.mask-group-icon,
+.vector-parent {
+  position: absolute;
+  top: 0;
+  left: 0;
+  overflow: hidden;
+}
+
+.mask-group-icon {
+  height: 99.64%;
+  width: 100%;
+  right: 0;
+  bottom: 0.36%;
+  max-width: 100%;
+  max-height: 100%;
+}
+
+.vector-parent {
+  width: 90rem;
+  height: 51.75rem;
+}
+
+.happy-ambitious-dsdhr-manager-icon {
+  position: absolute;
+  height: 8.52%;
+  width: 37.15%;
+  top: 1.4%;
+  right: 2.15%;
+  bottom: 90.08%;
+  left: 60.69%;
+  max-width: 100%;
+  overflow: hidden;
+  max-height: 100%;
+  object-fit: cover;
+}
+
+.streamline-your-hr {
+  position: relative;
+  font-weight: 600;
+  display: inline-block;
+  width: 45.13rem;
+}
+
+.maximize-your-hr {
+  position: relative;
+  font-size: 1.25rem;
+  font-family: "Gotham Light";
+  display: inline-block;
+  width: 43.75rem;
+}
+
+.streamline-your-hr-workflows-w-parent {
+  display: flex;
+  flex-direction: column;
+  align-items: flex-start;
+  justify-content: flex-start;
+  gap: 1.56rem;
+}
+
+.get-started {
+  position: relative;
+  font-size: 1.13rem;
+  line-height: 1.75rem;
+  font-weight: 600;
+  font-family: Inter;
+  color: #f5f5ff;
+  text-align: left;
+}
+
+.vuesaxlineararrow-right-icon {
+  position: relative;
+  width: 1.5rem;
+  height: 1.5rem;
+  flex-shrink: 0;
+}
+
+.learg {
+  cursor: pointer;
+  border: 0;
+  padding: 1.13rem 2.5rem;
+  background-color: #1653d1;
+  border-radius: 8px;
+  display: flex;
+  flex-direction: row;
+  align-items: center;
+  justify-content: center;
+  gap: 0.63rem;
+}
+
+.frame-parent {
+  position: absolute;
+  top: 14.44rem;
+  left: 8.13rem;
+  display: flex;
+  flex-direction: column;
+  align-items: flex-start;
+  justify-content: flex-start;
+  gap: 3.13rem;
+  font-size: 3rem;
+  color: #fff;
+}
+
+.my-ssproject-1 {
+  position: relative;
+  width: 7.81rem;
+  height: 4.56rem;
+  flex-shrink: 0;
+  object-fit: cover;
+}
+
+.home {
+  position: relative;
+  letter-spacing: -0.02em;
+  line-height: 1.13rem;
+}
+
+.home-parent {
+  display: flex;
+  flex-direction: row;
+  align-items: flex-end;
+  justify-content: flex-start;
+  gap: 4.38rem;
+}
+
+.group-child {
+  cursor: pointer;
+  border: 0;
+  padding: 0;
+  background-color: #1653d1;
+  position: absolute;
+  top: 0;
+  left: 0;
+  border-radius: 7px;
+  width: 8.63rem;
+  height: 3rem;
+}
+
+.log-in {
+  position: absolute;
+  top: 0.94rem;
+  left: 1.69rem;
+  font-size: 1rem;
+  letter-spacing: -0.02em;
+  line-height: 1.13rem;
+  font-family: Poppins;
+  color: #fdfeff;
+  text-align: left;
+}
+
+.lomalineuser-icon {
+  position: absolute;
+  top: 0.75rem;
+  left: 5.5rem;
+  width: 1.5rem;
+  height: 1.5rem;
+}
+
+.rectangle-parent {
+  cursor: pointer;
+  border: 0;
+  padding: 0;
+  background-color: transparent;
+  position: relative;
+  width: 8.63rem;
+  height: 3rem;
+  flex-shrink: 0;
+}
+
+.my-ssproject-1-parent {
+  position: absolute;
+  top: 2.13rem;
+  left: 8.13rem;
+  width: 73.75rem;
+  display: flex;
+  flex-direction: row;
+  align-items: center;
+  justify-content: space-between;
+  font-size: 1.25rem;
+  color: #fff;
+  font-family: Poppins;
+}
+
+.frame-item {
+  position: relative;
+  border-top: 1px solid #efe9fc;
+  box-sizing: border-box;
+  width: 90.06rem;
+  height: 0.06rem;
+  flex-shrink: 0;
+}
+
+.our-customers-get {
+  position: relative;
+  line-height: 145%;
+  font-weight: 500;
+  display: inline-block;
+  width: 16.94rem;
+  flex-shrink: 0;
+}
+
+.image-73-icon {
+  position: relative;
+  width: 5.88rem;
+  height: 2rem;
+  flex-shrink: 0;
+  object-fit: cover;
+}
+
+.image-78-icon,
+.image-79-icon,
+.image-80-icon,
+.image-81-icon {
+  position: relative;
+  width: 7.25rem;
+  height: 1.44rem;
+  flex-shrink: 0;
+  object-fit: cover;
+}
+
+.image-79-icon,
+.image-80-icon,
+.image-81-icon {
+  width: 8.13rem;
+  height: 1.75rem;
+}
+
+.image-80-icon,
+.image-81-icon {
+  width: 5.06rem;
+  height: 2rem;
+}
+
+.image-81-icon {
+  width: 6rem;
+  height: 1.88rem;
+}
+
+.image-73-parent,
+.our-customers-get-hired-by-parent {
+  display: flex;
+  flex-direction: row;
+  align-items: center;
+  justify-content: center;
+  gap: 3.13rem;
+}
+
+.our-customers-get-hired-by-parent {
+  width: 90rem;
+  gap: 2.5rem;
+}
+
+.frame-inner {
+  position: relative;
+  border-top: 2px solid #efe9fc;
+  box-sizing: border-box;
+  width: 90.13rem;
+  height: 0.13rem;
+  flex-shrink: 0;
+}
+
+.fill,
+.line-parent {
+  position: absolute;
+  left: 0;
+}
+
+.line-parent {
+  top: 51.81rem;
+  display: flex;
+  flex-direction: column;
+  align-items: flex-start;
+  justify-content: flex-start;
+  gap: 2.5rem;
+  font-size: 1.25rem;
+  color: #6c6973;
+  font-family: Manrope;
+}
+
+.fill {
+  height: 100%;
+  width: 100%;
+  top: 0;
+  right: 0;
+  bottom: 0;
+  border-radius: 8px;
+  background-color: #1653d1;
+}
+
+.convert-your-content {
+  width: 79.37%;
+  top: 61.69%;
+  line-height: 1.63rem;
+  display: inline-block;
+}
+
+.convert-your-content,
+.fill1,
+.hire-developer {
+  position: absolute;
+  left: 10.58%;
+}
+
+.hire-developer {
+  top: 45.45%;
+  font-size: 1.38rem;
+  line-height: 1.88rem;
+  font-weight: 500;
+}
+
+.fill1 {
+  height: 19.48%;
+  width: 15.87%;
+  top: 12.99%;
+  right: 73.54%;
+  bottom: 67.53%;
+  border-radius: 8px;
+  background-color: #fff;
+}
+
+.vuesaxlinearmessage-programm-icon {
+  position: absolute;
+  height: 7.79%;
+  width: 6.35%;
+  top: 18.83%;
+  right: 78.31%;
+  bottom: 73.38%;
+  left: 15.34%;
+  max-width: 100%;
+  overflow: hidden;
+  max-height: 100%;
+}
+
+.fill-parent {
+  position: absolute;
+  top: 72.81rem;
+  left: 58.69rem;
+  width: 23.63rem;
+  height: 19.25rem;
+  color: #fff;
+}
+
+.fill2 {
+  position: absolute;
+  height: 100%;
+  width: 100%;
+  top: 0;
+  right: 0;
+  bottom: 0;
+  left: 0;
+  border-radius: 8px;
+  background-color: #fff;
+  border: 1px solid #ebedfc;
+  box-sizing: border-box;
+}
+
+.blank-line {
+  margin-block-start: 0;
+  margin-block-end: 0;
+}
+
+.streamline-your-hiring {
+  margin: 0;
+}
+
+.fill3,
+.hire-designers {
+  position: absolute;
+  left: 10.58%;
+}
+
+.hire-designers {
+  top: 45.45%;
+  font-size: 1.5rem;
+  line-height: 1.88rem;
+  font-weight: 500;
+  color: #02051c;
+}
+
+.fill3 {
+  height: 19.48%;
+  width: 15.87%;
+  top: 12.99%;
+  right: 73.54%;
+  bottom: 67.53%;
+  border-radius: 8px;
+  background-color: #dae1ff;
+}
+
+.fill-group {
+  position: absolute;
+  top: 72.81rem;
+  left: 33.13rem;
+  width: 23.63rem;
+  height: 19.25rem;
+  color: #353749;
+}
+
+.we-are-revolutionizing,
+.what-we-do {
+  position: relative;
+  display: inline-block;
+}
+
+.what-we-do {
+  line-height: 130%;
+  font-weight: 600;
+  width: 15.38rem;
+}
+
+.we-are-revolutionizing {
+  font-size: 1.13rem;
+  line-height: 160%;
+  font-family: Inter;
+  color: #6c6973;
+  width: 57.81rem;
+}
+
+.homepage-inner,
+.what-we-do-parent {
+  display: flex;
+  flex-direction: column;
+  align-items: center;
+  justify-content: flex-start;
+}
+
+.what-we-do-parent {
+  gap: 1.25rem;
+}
+
+.homepage-inner {
+  position: absolute;
+  top: 62rem;
+  left: 16.06rem;
+  text-align: center;
+  font-size: 2.63rem;
+  font-family: Manrope;
+}
+
+.hr-potential-with,
+.why-choose-us1 {
+  position: relative;
+  display: inline-block;
+}
+
+.why-choose-us1 {
+  line-height: 130%;
+  font-weight: 600;
+  width: 21.13rem;
+}
+
+.hr-potential-with {
+  font-size: 1.13rem;
+  line-height: 160%;
+  font-family: Inter;
+  color: #6c6973;
+  text-align: left;
+  width: 37.5rem;
+}
+
+.why-choose-us-parent {
+  display: flex;
+  flex-direction: column;
+  align-items: flex-start;
+  justify-content: flex-start;
+  gap: 1.25rem;
+}
+
+.frame-icon {
+  position: relative;
+  border-radius: 8px;
+  width: 5rem;
+  height: 5rem;
+  flex-shrink: 0;
+}
+
+.change-100-quality-container,
+.quality {
+  position: relative;
+  display: inline-block;
+  width: 28.06rem;
+}
+
+.quality {
+  line-height: 145%;
+  font-weight: 500;
+}
+
+.change-100-quality-container {
+  font-size: 1rem;
+  line-height: 160%;
+  font-family: Inter;
+  color: #6c6973;
+  height: 3.44rem;
+  flex-shrink: 0;
+}
+
+.quality-parent {
+  height: 5.5rem;
+  flex-direction: column;
+  align-items: flex-start;
+  gap: 0.38rem;
+}
+
+.frame-parent1,
+.frame-wrapper,
+.quality-parent {
+  display: flex;
+  justify-content: flex-start;
+}
+
+.frame-parent1 {
+  height: 6rem;
+  flex-shrink: 0;
+  flex-direction: row;
+  align-items: center;
+  gap: 1.5rem;
+}
+
+.frame-wrapper {
+  border-radius: 8px;
+  background-color: #fff;
+  flex-direction: column;
+  padding: 0.5rem 1.25rem;
+  align-items: flex-start;
+}
+
+.cost-savings,
+.we-have-15k {
+  position: relative;
+  line-height: 145%;
+  font-weight: 500;
+  display: inline-block;
+  width: 19.19rem;
+}
+
+.we-have-15k {
+  width: 21.81rem;
+}
+
+.frame-div {
+  display: flex;
+  flex-direction: column;
+  align-items: flex-start;
+  justify-content: flex-start;
+  gap: 1rem;
+}
+
+.learg1 {
+  cursor: pointer;
+  border: 0;
+  padding: 1.13rem 2.5rem;
+  background-color: #1653d1;
+  border-radius: 8px;
+  display: flex;
+  flex-direction: row;
+  align-items: center;
+  justify-content: center;
+}
+
+.frame-container,
+.frame-group {
+  display: flex;
+  flex-direction: column;
+  align-items: flex-start;
+  justify-content: flex-start;
+}
+
+.frame-container {
+  gap: 2.5rem;
+  text-align: left;
+  font-size: 1.25rem;
+}
+
+.frame-group {
+  position: absolute;
+  top: 6.25rem;
+  left: 44.06rem;
+  gap: 3.75rem;
+}
+
+.sd-1-icon {
+  position: absolute;
+  top: 0;
+  left: 3.13rem;
+  width: 23.69rem;
+  height: 40.88rem;
+  object-fit: cover;
+}
+
+.k,
+.total-user {
+  position: relative;
+}
+
+.k {
+  line-height: 135%;
+  font-weight: 500;
+}
+
+.total-user {
+  font-size: 0.88rem;
+  line-height: 145%;
+  font-family: Inter;
+  opacity: 0.9;
+}
+
+.group-div,
+.k-parent {
+  position: absolute;
+  top: 0;
+  left: 0;
+}
+
+.k-parent {
+  display: flex;
+  flex-direction: column;
+  align-items: flex-start;
+  justify-content: flex-start;
+}
+
+.group-div {
+  width: 4.25rem;
+  height: 3.25rem;
+}
+
+.group-container {
+  position: relative;
+  width: 4.25rem;
+  height: 3.25rem;
+  flex-shrink: 0;
+}
+
+.group-wrapper {
+  position: absolute;
+  top: 29.75rem;
+  left: 0;
+  border-radius: 10px;
+  background-color: rgba(97, 37, 223, 0.7);
+  box-shadow: 0 4px 4px rgba(0, 0, 0, 0.25);
+  backdrop-filter: blur(8px);
+  display: flex;
+  flex-direction: column;
+  padding: 0.94rem;
+  align-items: flex-start;
+  justify-content: flex-start;
+}
+
+.k-reviews {
+  position: absolute;
+  top: 0;
+  left: 1rem;
+  line-height: 145%;
+  display: inline-block;
+  width: 6rem;
+  height: 1.25rem;
+}
+
+.group-child1,
+.group-child2,
+.group-inner,
+.group-item {
+  position: absolute;
+  top: 0.13rem;
+  width: 1.94rem;
+  height: 1.94rem;
+}
+
+.group-item {
+  left: 0;
+}
+
+.group-child1,
+.group-child2,
+.group-inner {
+  left: 1.5rem;
+}
+
+.group-child1,
+.group-child2 {
+  left: 3.06rem;
+}
+
+.group-child2 {
+  left: 4.56rem;
+}
+
+.k1 {
+  position: absolute;
+  top: 0.31rem;
+  left: 0.19rem;
+  line-height: 145%;
+}
+
+.ellipse-parent,
+.group-wrapper1 {
+  position: absolute;
+  top: 0;
+  width: 1.94rem;
+  height: 1.94rem;
+}
+
+.ellipse-parent {
+  left: 0;
+}
+
+.group-wrapper1 {
+  left: 6.06rem;
+}
+
+.group-parent {
+  position: absolute;
+  top: 1.44rem;
+  left: 0;
+  width: 8rem;
+  height: 2.06rem;
+  color: #fff;
+}
+
+.k-reviews-parent {
+  position: relative;
+  width: 8rem;
+  height: 3.5rem;
+  flex-shrink: 0;
+}
+
+.group-frame {
+  position: absolute;
+  top: 19.25rem;
+  left: 20.56rem;
+  border-radius: 8px;
+  background-color: #fff;
+  box-shadow: 0 12px 80px rgba(0, 0, 0, 0.05);
+  display: flex;
+  flex-direction: column;
+  padding: 0.94rem;
+  align-items: flex-start;
+  justify-content: flex-start;
+  font-size: 0.88rem;
+  color: #34303d;
+  font-family: Inter;
+}
+
+.sd-1-parent {
+  position: absolute;
+  top: 6.5rem;
+  left: 8.44rem;
+  width: 30.44rem;
+  height: 40.88rem;
+  text-align: left;
+  font-size: 1.5rem;
+  color: #fff;
+}
+
+.why-choose-us {
+  position: absolute;
+  top: 212.63rem;
+  left: -0.12rem;
+  background-color: #f7f4fd;
+  width: 90rem;
+  height: 53.88rem;
+  overflow: hidden;
+  text-align: center;
+  font-size: 2.63rem;
+  font-family: Manrope;
+}
+
+.interview-questions {
+  position: relative;
+  line-height: 130%;
+  font-weight: 600;
+  display: inline-block;
+  width: 25.19rem;
+}
+
+.hr-potential-with1 {
+  position: relative;
+  font-size: 1.13rem;
+  line-height: 160%;
+  font-family: Inter;
+  color: #6c6973;
+  display: inline-block;
+  width: 37.5rem;
+}
+
+.frame-parent5 {
+  display: flex;
+  flex-direction: column;
+  align-items: flex-start;
+  justify-content: flex-start;
+  gap: 1.88rem;
+}
+
+.rectangle-icon {
+  position: relative;
+  border-radius: 12px;
+  width: 41.06rem;
+  height: 30.5rem;
+  flex-shrink: 0;
+  object-fit: cover;
+}
+
+.frame-parent4 {
+  position: absolute;
+  top: 268.94rem;
+  left: 8.19rem;
+  width: 83.25rem;
+  display: flex;
+  flex-direction: row;
+  align-items: center;
+  justify-content: flex-start;
+  gap: 7.94rem;
+  font-size: 2.63rem;
+  font-family: Manrope;
+}
+
+.frame-child3 {
+  position: relative;
+  border-radius: 12px;
+  width: 41.69rem;
+  height: 30.5rem;
+  flex-shrink: 0;
+  object-fit: cover;
+}
+
+.frame-parent6 {
+  position: absolute;
+  top: 343.44rem;
+  left: 4.81rem;
+  width: 83.25rem;
+  display: flex;
+  flex-direction: row;
+  align-items: center;
+  justify-content: flex-start;
+  gap: 7.94rem;
+  font-size: 2.63rem;
+  font-family: Manrope;
+}
+
+.rectangle-div {
+  position: absolute;
+  top: 0;
+  left: 4.56rem;
+  background-color: #f7f4fd;
+  width: 90rem;
+  height: 40.5rem;
+}
+
+.rectangle-container {
+  position: absolute;
+  top: 6.25rem;
+  left: 0;
+  display: flex;
+  flex-direction: row;
+  align-items: center;
+  justify-content: flex-start;
+  gap: 7.94rem;
+}
+
+.rectangle-group {
+  position: absolute;
+  top: 300.81rem;
+  left: -4.69rem;
+  width: 94.56rem;
+  height: 40.5rem;
+  font-size: 2.63rem;
+  font-family: Manrope;
+}
+
+.create-resume {
+  position: relative;
+  font-size: 1.13rem;
+  line-height: 150%;
+  font-weight: 600;
+  font-family: Inter;
+  color: #fff;
+  text-align: center;
+}
+
+.buttons-component {
+  cursor: pointer;
+  border: 1px solid #fff;
+  padding: 1.06rem 2rem;
+  background-color: transparent;
+  border-radius: 8px;
+  display: flex;
+  flex-direction: row;
+  align-items: center;
+  justify-content: center;
+}
+
+.buttons-component-wrapper {
+  position: absolute;
+  top: 377.69rem;
+  left: -0.06rem;
+  background-color: #00016d;
+  display: flex;
+  flex-direction: column;
+  padding: 3.13rem 37.88rem;
+  align-items: flex-start;
+  justify-content: flex-start;
+}
+
+.testimonials {
+  position: relative;
+  line-height: 3.38rem;
+  font-weight: 600;
+  display: inline-block;
+  width: 31.75rem;
+  height: 2.75rem;
+  flex-shrink: 0;
+}
+
+.slider-1-child {
+  position: absolute;
+  height: 100%;
+  width: 95.22%;
+  top: 0;
+  right: 2.39%;
+  bottom: 0;
+  left: 2.39%;
+  border-radius: 10px;
+  background-color: #f7f4fd;
+}
+
+.emily-noraan {
+  position: absolute;
+  height: 46.27%;
+  width: 100%;
+  top: 0;
+  left: 0;
+  line-height: 1.88rem;
+  font-weight: 500;
+  display: inline-block;
+}
+
+.mahameru {
+  position: absolute;
+  top: 61.19%;
+  left: 10.69%;
+  font-size: 1rem;
+  line-height: 1.63rem;
+  color: #1653d1;
+}
+
+.emily-noraan-parent,
+.group-child3 {
+  position: absolute;
+  height: 48.55%;
+  width: 100%;
+  top: 51.45%;
+  right: 0;
+  bottom: 0;
+  left: 0;
+}
+
+.group-child3 {
+  height: 39.86%;
+  width: 34.59%;
+  top: 0;
+  right: 32.7%;
+  bottom: 60.14%;
+  left: 32.7%;
+  max-width: 100%;
+  overflow: hidden;
+  max-height: 100%;
+  object-fit: cover;
+}
+
+.slider-1-inner {
+  position: absolute;
+  height: 32.09%;
+  width: 12.68%;
+  top: 53.95%;
+  right: 43.62%;
+  bottom: 13.95%;
+  left: 43.7%;
+}
+
+.we-were-looking {
+  position: absolute;
+  width: 71.13%;
+  top: 13.95%;
+  left: 14.43%;
+  line-height: 2.38rem;
+  font-weight: 500;
+  color: #353749;
+  text-align: center;
+  display: inline-block;
+}
+
+.vuesaxlinearquote-down-icon,
+.vuesaxlinearquote-up-icon {
+  position: absolute;
+  height: 5.58%;
+  width: 1.91%;
+  top: 13.95%;
+  right: 85.57%;
+  bottom: 80.47%;
+  left: 12.52%;
+  max-width: 100%;
+  overflow: hidden;
+  max-height: 100%;
+}
+
+.vuesaxlinearquote-down-icon {
+  top: 34.88%;
+  right: 12.52%;
+  bottom: 59.53%;
+  left: 85.57%;
+}
+
+.slider-1 {
+  position: absolute;
+  top: 0;
+  left: 0;
+  width: 78.38rem;
+  height: 26.88rem;
+}
+
+.slider-2-child {
+  position: absolute;
+  height: 100%;
+  width: 95.22%;
+  top: 0;
+  right: 2.39%;
+  bottom: 0;
+  left: 2.39%;
+  border-radius: 10px;
+  background-color: #f5f5ff;
+}
+
+.mahameru1 {
+  position: absolute;
+  top: 61.19%;
+  left: 10.69%;
+  font-size: 1rem;
+  line-height: 1.63rem;
+  color: #3c50e0;
+}
+
+.slider-2,
+.slider-grp {
+  position: absolute;
+  top: 0;
+  height: 26.88rem;
+}
+
+.slider-2 {
+  left: 80.25rem;
+  width: 78.38rem;
+}
+
+.slider-grp {
+  left: 0;
+  width: 78.31rem;
+  overflow: hidden;
+}
+
+.component-10-child,
+.component-10-item {
+  position: absolute;
+  height: 13.95%;
+  width: 4.79%;
+  top: 43.02%;
+  right: 95.21%;
+  bottom: 43.02%;
+  left: 0;
+  max-width: 100%;
+  overflow: hidden;
+  max-height: 100%;
+}
+
+.component-10-item {
+  right: 0;
+  left: 95.21%;
+}
+
+.component-10 {
+  position: relative;
+  width: 78.31rem;
+  height: 26.88rem;
+  flex-shrink: 0;
+  text-align: left;
+  font-size: 1.5rem;
+}
+
+.testimonials-parent {
+  position: absolute;
+  top: 395.88rem;
+  left: 5.88rem;
+  display: flex;
+  flex-direction: column;
+  align-items: center;
+  justify-content: flex-start;
+  gap: 4rem;
+  text-align: center;
+  font-size: 2.5rem;
+  color: #02051c;
+}
+
+.frequently-asked-questions {
+  position: absolute;
+  top: 0;
+  left: 22.38%;
+  line-height: 3.38rem;
+  font-weight: 600;
+}
+
+.group-child5,
+.group-child6,
+.group-child7,
+.group-child8,
+.group-child9 {
+  position: absolute;
+  height: 0.21%;
+  width: 99.8%;
+  top: 11.98%;
+  right: 0.2%;
+  bottom: 87.81%;
+  left: 0;
+  background-color: #dae1ff;
+}
+
+.group-child6,
+.group-child7,
+.group-child8,
+.group-child9 {
+  top: 30.99%;
+  bottom: 68.8%;
+}
+
+.group-child7,
+.group-child8,
+.group-child9 {
+  top: 50%;
+  bottom: 49.79%;
+}
+
+.group-child8,
+.group-child9 {
+  top: 68.8%;
+  bottom: 30.99%;
+}
+
+.group-child9 {
+  top: 87.6%;
+  bottom: 12.19%;
+}
+
+.can-i-change {
+  position: absolute;
+  height: 100%;
+  width: 32.63%;
+  top: 0;
+  left: 0;
+  line-height: 1.88rem;
+  font-weight: 500;
+  display: inline-block;
+}
+
+.vuesax-icon {
+  position: absolute;
+  height: 77.42%;
+  width: 2.42%;
+  top: 12.9%;
+  right: 0;
+  bottom: 9.68%;
+  left: 97.58%;
+  max-width: 100%;
+  overflow: hidden;
+  max-height: 100%;
+}
+
+.can-i-change-my-plan-later-parent {
+  position: absolute;
+  height: 6.4%;
+  width: 99.8%;
+  top: 18.39%;
+  right: 0;
+  bottom: 75.21%;
+  left: 0.2%;
+}
+
+.what-is-your {
+  position: absolute;
+  height: 100%;
+  width: 38.93%;
+  top: 0;
+  left: 0;
+  line-height: 1.88rem;
+  font-weight: 500;
+  display: inline-block;
+}
+
+.vuesax-icon1 {
+  position: absolute;
+  height: 77.42%;
+  width: 2.43%;
+  top: 12.9%;
+  right: 0;
+  bottom: 9.68%;
+  left: 97.57%;
+  max-width: 100%;
+  overflow: hidden;
+  max-height: 100%;
+}
+
+.what-is-your-cancellation-poli-parent {
+  position: absolute;
+  height: 6.4%;
+  width: 99.7%;
+  top: 37.4%;
+  right: 0.1%;
+  bottom: 56.2%;
+  left: 0.2%;
+}
+
+.can-other-info {
+  position: absolute;
+  top: 0;
+  left: 0;
+  line-height: 1.88rem;
+  font-weight: 500;
+}
+
+.vuesax-icon2 {
+  position: absolute;
+  height: 80%;
+  width: 2.42%;
+  top: 13.33%;
+  right: 0;
+  bottom: 6.67%;
+  left: 97.58%;
+  max-width: 100%;
+  overflow: hidden;
+  max-height: 100%;
+}
+
+.can-other-info-be-added-to-an-parent,
+.how-does-billing-work-parent,
+.vuesax-icon4 {
+  position: absolute;
+  height: 6.2%;
+  width: 99.9%;
+  top: 56.4%;
+  right: 0.1%;
+  bottom: 37.4%;
+  left: 0;
+}
+
+.how-does-billing-work-parent,
+.vuesax-icon4 {
+  top: 75.21%;
+  bottom: 18.6%;
+}
+
+.vuesax-icon4 {
+  height: 80%;
+  width: 2.42%;
+  top: 10%;
+  right: 0;
+  bottom: 10%;
+  left: 97.58%;
+  max-width: 100%;
+  overflow: hidden;
+  max-height: 100%;
+}
+
+.how-do-i-change-my-account-ema-parent {
+  position: absolute;
+  height: 6.2%;
+  width: 99.9%;
+  top: 93.8%;
+  right: 0.1%;
+  bottom: 0;
+  left: 0;
+}
+
+.is-there-a {
+  position: absolute;
+  height: 100%;
+  width: 100%;
+  top: 0;
+  left: 0;
+  line-height: 1.88rem;
+  font-weight: 500;
+  display: inline-block;
+}
+
+.is-there-a-free-trial-availabl-wrapper,
+.vuesax-icon5 {
+  position: absolute;
+  height: 100%;
+  width: 33.67%;
+  top: 0;
+  right: 66.33%;
+  bottom: 0;
+  left: 0;
+}
+
+.vuesax-icon5 {
+  height: 85.71%;
+  width: 2.42%;
+  top: 10.71%;
+  right: 0;
+  bottom: 3.57%;
+  left: 97.58%;
+  max-width: 100%;
+  overflow: hidden;
+  max-height: 100%;
+}
+
+.group-parent3,
+.rectangle-parent1 {
+  position: absolute;
+  height: 5.79%;
+  width: 100%;
+  top: 0;
+  right: 0;
+  bottom: 94.21%;
+  left: 0;
+}
+
+.rectangle-parent1 {
+  height: 71.81%;
+  top: 17.51%;
+  bottom: 10.68%;
+  font-size: 1.5rem;
+}
+
+.frequently-asked-questions-parent {
+  position: absolute;
+  top: 437.63rem;
+  left: 14rem;
+  width: 62rem;
+  height: 42.13rem;
+  font-size: 2.5rem;
+  color: #02051c;
+}
+
+.my-ssproject-11 {
+  position: absolute;
+  top: 4.38rem;
+  left: 8.44rem;
+  width: 7.81rem;
+  height: 4.56rem;
+  object-fit: cover;
+}
+
+.connect-with-us {
+  position: relative;
+  line-height: 160%;
+}
+
+.facebook-icon {
+  position: relative;
+  width: 1.68rem;
+  height: 1.66rem;
+  flex-shrink: 0;
+}
+
+.instagram-icon,
+.twitter-icon,
+.vector-icon1 {
+  position: relative;
+  width: 1.76rem;
+  height: 1.38rem;
+  flex-shrink: 0;
+}
+
+.instagram-icon,
+.vector-icon1 {
+  width: 1.6rem;
+  height: 1.56rem;
+}
+
+.vector-icon1 {
+  width: 1.56rem;
+}
+
+.social-network {
+  display: flex;
+  flex-direction: row;
+  align-items: center;
+  justify-content: flex-start;
+  gap: 1.25rem;
+}
+
+.connect-with-us-on-social-medi-parent,
+.social-network-wrapper {
+  display: flex;
+  flex-direction: row;
+  align-items: flex-start;
+  justify-content: flex-start;
+}
+
+.connect-with-us-on-social-medi-parent {
+  position: absolute;
+  top: 11.56rem;
+  left: 8.44rem;
+  flex-direction: column;
+  gap: 1.25rem;
+}
+
+.services {
+  position: relative;
+  font-size: 1.13rem;
+  line-height: 160%;
+  text-transform: uppercase;
+}
+
+.resume-editor-tool-parent,
+.services-parent {
+  display: flex;
+  flex-direction: column;
+  align-items: flex-start;
+  justify-content: flex-start;
+  gap: 0.75rem;
+}
+
+.services-parent {
+  gap: 0.88rem;
+  font-size: 1rem;
+}
+
+.our-company {
+  position: relative;
+  line-height: 160%;
+  text-transform: uppercase;
+}
+
+.about-us-parent,
+.our-company-parent {
+  flex-direction: column;
+  justify-content: flex-start;
+}
+
+.about-us-parent {
+  display: flex;
+  align-items: flex-start;
+  gap: 1rem;
+  font-size: 1rem;
+}
+
+.our-company-parent {
+  gap: 1.44rem;
+}
+
+.frame-parent9,
+.our-company-parent,
+.support-parent {
+  display: flex;
+  align-items: flex-start;
+}
+
+.support-parent {
+  flex-direction: column;
+  justify-content: flex-start;
+  gap: 1.13rem;
+}
+
+.frame-parent9 {
+  position: absolute;
+  top: 2.94rem;
+  left: 37.44rem;
+  width: 44.13rem;
+  flex-direction: row;
+  justify-content: space-between;
+  font-size: 1.13rem;
+}
+
+.footer-child {
+  position: absolute;
+  top: 31rem;
+  left: 0;
+  background-color: #dee3e6;
+  width: 90rem;
+  height: 0.19rem;
+}
+
+.copyright-2023-pure-talent-a-parent {
+  position: absolute;
+  top: 33.19rem;
+  left: 8.44rem;
+  width: 73.13rem;
+  display: flex;
+  flex-direction: row;
+  align-items: flex-start;
+  justify-content: space-between;
+}
+
+.footer {
+  position: absolute;
+  top: 484rem;
+  left: -0.06rem;
+  background-color: #00016d;
+  width: 90.06rem;
+  height: 37.63rem;
+  overflow: hidden;
+  color: #fff;
+}
+
+.fill-container {
+  position: absolute;
+  height: 100%;
+  width: 100%;
+  top: 0;
+  right: 0;
+  bottom: 0;
+  left: 0;
+}
+
+.component-46 {
+  position: absolute;
+  top: 72.81rem;
+  left: 7.69rem;
+  width: 23.63rem;
+  height: 19.25rem;
+  color: #353749;
+}
+
+.iconsaxlinearmessagesearch,
+.vuesaxlinearcall-icon {
+  position: absolute;
+  height: 7.79%;
+  width: 6.35%;
+  max-width: 100%;
+  overflow: hidden;
+  max-height: 100%;
+}
+
+.vuesaxlinearcall-icon {
+  top: 18.83%;
+  right: 78.31%;
+  bottom: 73.38%;
+  left: 15.34%;
+  display: none;
+}
+
+.iconsaxlinearmessagesearch {
+  top: 19.16%;
+  right: 78.57%;
+  bottom: 73.05%;
+  left: 15.08%;
+}
+
+.component-47 {
+  position: absolute;
+  top: 94.56rem;
+  left: 33.19rem;
+  width: 23.63rem;
+  height: 19.25rem;
+  color: #353749;
+}
+
+.generator {
+  margin-block-start: 0;
+  margin-block-end: 0;
+  font-size: 1.5rem;
+}
+
+.hire-digital-marketers-container {
+  position: absolute;
+  top: 45.45%;
+  left: 10.58%;
+  line-height: 1.88rem;
+  font-weight: 500;
+  color: #02051c;
+  font-size: 1.44rem;
+}
+
+.marketer-icon {
+  position: absolute;
+  height: 10.39%;
+  width: 8.47%;
+  top: 17.53%;
+  right: 77.25%;
+  bottom: 72.08%;
+  left: 14.29%;
+  max-width: 100%;
+  overflow: hidden;
+  max-height: 100%;
+}
+
+.fill-parent2,
+.fill-parent3 {
+  position: absolute;
+  top: 0;
+  left: 0.06rem;
+  width: 23.63rem;
+  height: 19.25rem;
+}
+
+.fill-parent3 {
+  left: 51.13rem;
+}
+
+.fill-parent4 {
+  top: 44rem;
+  left: 0.13rem;
+}
+
+.fill-parent4,
+.fill-parent5,
+.fill-parent6 {
+  position: absolute;
+  width: 23.63rem;
+  height: 19.25rem;
+}
+
+.fill-parent5 {
+  top: 22.06rem;
+  left: 51.25rem;
+}
+
+.fill-parent6 {
+  top: 22rem;
+  left: 0;
+}
+
+.instance-parent {
+  position: absolute;
+  top: 0;
+  left: 0;
+  width: 74.88rem;
+  height: 63.25rem;
+}
+
+.virtual-assistant1 {
+  position: absolute;
+  top: 45.45%;
+  left: 10.58%;
+  font-size: 1.44rem;
+  line-height: 1.88rem;
+  font-weight: 500;
+  color: #02051c;
+}
+
+.component-48 {
+  position: absolute;
+  top: 22.06rem;
+  left: 25.63rem;
+  width: 23.63rem;
+  height: 19.25rem;
+}
+
+.how-the-pure,
+.no-more-job {
+  position: relative;
+  display: inline-block;
+}
+
+.how-the-pure {
+  line-height: 3.38rem;
+  font-weight: 600;
+  width: 46.75rem;
+}
+
+.no-more-job {
+  font-size: 1.13rem;
+  line-height: 1.75rem;
+  color: #353749;
+  width: 45.63rem;
+}
+
+.frame-child5 {
+  position: relative;
+  width: 63.31rem;
+  height: 33.75rem;
+  flex-shrink: 0;
+  object-fit: cover;
+}
+
+.frame-parent10 {
+  position: absolute;
+  top: 66rem;
+  left: 5.75rem;
+  display: flex;
+  flex-direction: column;
+  align-items: center;
+  justify-content: flex-start;
+  gap: 4rem;
+  text-align: center;
+  font-size: 2.5rem;
+  color: #02051c;
+}
+
+.group-parent4 {
+  position: absolute;
+  top: 94.56rem;
+  left: 7.69rem;
+  width: 74.88rem;
+  height: 63.25rem;
+  color: #353749;
+}
+
+.homepage {
+  position: relative;
+  background-color: #fff;
+  width: 100%;
+  height: 519.5rem;
+  overflow: hidden;
+  text-align: left;
+  font-size: 1rem;
+  color: #34303d;
+  font-family: Inter;
+}
+
+.loginbtn {
+  background-color: #1653D1;
+  border-radius: 7%;
+  padding: 5px 20px;
+  display: flex;
+  align-items: center;
+}
+
+.icon {
+  border: none;
+  outline: none;
+  margin-left: 5px;
+}
